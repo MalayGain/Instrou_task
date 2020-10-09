@@ -1,0 +1,219 @@
+.workflow-container{
+    margin:auto 6%;
+    
+}
+.wr_1{
+    margin: 10% 6%;
+    display: flex;
+    flex-direction: row;
+}
+.wr_1_text{
+    margin: auto 0;
+}
+
+.workflow_pic{
+    width: 50%;
+    height: 50%;
+}
+
+.automation{
+    width: 100%;
+    background-color: #172B4D;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.automation h2{
+    color: white;
+    font-size: 2rem;
+    padding-top: 50px;
+}
+
+.automation h5{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.automation button{
+    background-color: transparent;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    border: 1px solid white;
+    transition: all 0.2s;
+}
+
+.automation button:hover{
+    background-color: white;
+    color: #253858;
+}
+@media(max-width: 1100px){
+
+    .wr_1{
+        margin: 10% 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .workflow_pic{
+        width: 100%;
+        height: 100%;
+    }
+    .app_container{
+        margin: 0px!important;
+    }
+    
+}
+.integrate_tools{
+    text-align: center;
+    font-size: 100%;
+    font-size: 2.25rem;
+    line-height: 1.33333333;
+    position: relative;
+    min-height: 1px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+
+}
+.integrate_tools p{
+    font-size: 1.25rem;
+    letter-spacing: .3px;
+    line-height: 1.4;
+    color: #42526E;
+    
+}
+.container_fluid{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 16px 0;
+    
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    clear: both;
+}
+@media(min-width: 765px){
+    .container_fluid{
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .security_style{
+        display: flex;
+        margin-left: 16%;
+        margin-right: 16%;
+        padding-right: 16px;
+    }
+    
+    .col{
+        margin: 20;
+    }
+    .security_style img{
+        width:90%
+    }
+
+}
+.column{
+    margin: 20px;
+}
+
+
+
+.App_dowload{
+    background-color:  #DFE1E6;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.app_container{
+    margin: 0 20%;
+    text-align: center;
+    padding-top: 5%;
+    background-color:#fff;
+    padding-bottom: 20px;
+}
+.app_container i{
+    font-size: 3rem;
+    padding-top: 20px;
+    color: #0052CC;
+}
+
+h2{
+    font-size: 1.8rem;
+    line-height: 1.4;
+    color: #253858;   
+}
+
+h5{
+    font-size: 1.2rem;
+    line-height: 1.4;
+    font-weight: 400;
+    color: #253858;
+}
+
+.play{
+    width: 180px;
+}
+#test-2 img{
+
+    margin-top: 20px;
+    width: 50%;
+
+}
+
+.story_link{
+    color: lawngreen;
+    text-decoration: none;
+}
+
+div{
+    font-family: Charlie Text,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+    font-style: normal;
+    
+}
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+    font-size: 20px;
+    color: #253858;
+    margin-bottom: 14px;
+}
+
+.col{
+    
+    min-height: 1px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.col h4{
+    color: #253858;
+    font-size: 2rem;
+    font-weight: 500;
+}
+div .partners img{
+    width: 100%;
+   
+    
+    text-align: center;
+    
+    
+}
+@media(max-width:765px)
+{
+    .partners img{
+    
+      vertical-align: bottom;
+      text-align: center;
+      
+
+    }
+}
+
+
+
+    
